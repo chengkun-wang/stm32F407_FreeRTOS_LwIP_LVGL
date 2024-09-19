@@ -1,0 +1,9 @@
+..\output\cjson_utils.o: ..\cJSON\cJSON_Utils.c
+..\output\cjson_utils.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\ctype.h
+..\output\cjson_utils.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+..\output\cjson_utils.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\output\cjson_utils.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+..\output\cjson_utils.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\limits.h
+..\output\cjson_utils.o: ..\cJSON\cJSON_Utils.h
+..\output\cjson_utils.o: ..\cJSON\cJSON.h
+..\output\cjson_utils.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
